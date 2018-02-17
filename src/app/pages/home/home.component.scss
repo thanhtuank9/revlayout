@@ -1,0 +1,23 @@
+.swap-dashboard{padding: 0 30px!important;}
+.swap-dashboard .box{background:#fff; margin-top:30px; width:100%; float:left; position:relative; padding:10px 25px; border-radius:5px; box-shadow: 0 1px 1px rgba(0,0,0,.1)}
+.swap-dashboard .box .title{width:100%; float:left; text-transform:uppercase; font-weight:bold; margin-bottom:15px; font-size:15px; margin-top:20px; position:relative; padding-left:45px; color:rgba(0,0,0,.7);}
+.swap-dashboard .box .title i{width:34px; height:34px; background:#759c28; text-align:center; line-height:34px; border-radius:50%; float:left; color:#fff; font-size:14px; position:absolute; top:-10px; left:0; font-weight:normal; }
+.swap-dashboard .box .title .sum{float:right; color:#f26d4e;}
+.swap-dashboard .box .title .sum span{float:right; color:rgba(0,0,0,.7); font-size:13px; text-transform:none; font-weight:normal; margin-top:2px; padding-left:5px; }
+.swap-dashboard .box .title .wrap-daterange{float:right; margin-top:-10px;}
+.swap-dashboard .box .title .wrap-daterange:before{font-family: 'FontAwesome'; content: "\f073"; font-size:14px; font-weight:normal; position:absolute; top:-4px; right:10px; color:#f26d4e}
+.swap-dashboard .box .title .wrap-daterange .daterangepicker-field{font-weight:normal; width:200px; height:32px; text-transform:none; font-size:13px; padding: 0 50px 0 10px; border:1px solid rgba(0,0,0,.15); border-radius:3px; transition:.3s;}
+.swap-dashboard .box .title .wrap-daterange .daterangepicker-field:focus{outline: none; border-color:#f26d4e;}
+.swap-dashboard .box ul.unit{width:100%; margin:0; padding:0; list-style:none; float:left;}
+.swap-dashboard .box ul.unit li{float:left; width:100%; position:relative; padding: 10px 0 8px 0; border-bottom:1px solid rgba(0,0,0,.07)}
+.swap-dashboard .box ul.unit li:last-child{border-bottom:none;}
+.swap-dashboard .box ul.unit li lable{float:left; margin:0; padding:0;}
+.swap-dashboard .box ul.unit li span{height:26px; background:#000; color:#fff; line-height:26px; min-width:26px; text-align:center; padding: 0 5px; position:absolute;right:0; top:7px; border-radius:3px;}
+.swap-dashboard .box ul.unit li:first-child span{background:#7cb5ec}
+.swap-dashboard .box ul.unit li:nth-child(2) span{background:#434348}
+.swap-dashboard .box ul.unit li:nth-child(3) span{background:#90ed7d}
+.swap-dashboard .box ul.unit li:nth-child(4) span{background:#f7a35c}
+.swap-dashboard .box #profile-total{width:100%; float:left; position:relative; height:300px;}
+.swap-dashboard .box #profile-time{width:100%; float:left; position:relative; height:300px;}
+.wrapper-page .title-page .drop-filter{float:right; padding: 7px 15px 0 0}
+.wrapper-page .title-page .drop-filter select{margin-left:5px;}
